@@ -221,7 +221,7 @@ class Favicon
 
 		# returning favicon.ico 
 
-		private
+		
 
 		def self.show_favicon
 
