@@ -231,7 +231,7 @@ class Favicon
 
 		# processing the image
 
-		def process_favicon_image
+		def self.process_favicon_image
 
 			#send_data data,:filename => "favicon.ico", :type => "image/ico", :disposition => "inline"
 
